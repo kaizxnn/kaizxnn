@@ -12,7 +12,7 @@ html,androidstudio,pycharm
 
 ## Top Projects
 
-- [Zennswagg](https://github.com/kaizxnn/kaizxnn): A personal project showcasing my skills. **Stars:** 0, **Language:** Not specified, **Forks:** 0, **Issues:** 0
+- [kaizxnn](https://github.com/kaizxnn/kaizxnn): A personal project showcasing my skills. **Stars:** 0, **Language:** Not specified, **Forks:** 0, **Issues:** 0
 - [wew123](https://github.com/kaizxnn/wew123): A fun experimental project. **Stars:** 0, **Language:** Not specified, **Forks:** 0, **Issues:** 0
 - [icecream](https://github.com/kaizxnn/icecream): A Java project demonstrating my programming capabilities. **Stars:** 0, **Language:** Java, **Forks:** 0, **Issues:** 0
 - [CHERI-CROFFLE](https://github.com/kaizxnn/CHERI-CROFFLE): A CSS-based project showcasing modern web design. **Stars:** 0, **Language:** CSS, **Forks:** 0, **Issues:** 0

@@ -27,8 +27,8 @@ html,androidstudio,pycharm
 
 ## Recent Activity
 
-- **Updated README.md** in [Zennswagg](https://github.com/kaizxnn/kaizxnn) on 2025-10-08  
-- **Created repository** [Zennswagg](https://github.com/kaizxnn/kaizxnn) on 2025-09-16  
+- **Updated README.md** in [kaizxnn](https://github.com/kaizxnn/kaizxnn) on 2025-10-08  
+- **Created repository** [kaizxnn](https://github.com/kaizxnn/kaizxnn) on 2025-09-16  
 - **Pushed changes** in [wew123](https://github.com/kaizxnn/wew123) on 2025-09-16
 
 ## Latest Blog Posts

@@ -13,12 +13,13 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <!-- Updated Visitor Badge with Kaizxnn -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kaizxnn.kaizxnn&"  />
 </div>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there, I'm Kaizxnn 👋</h1>
 
 ###
 
@@ -26,11 +27,15 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">Hi! I'm **Kaizxnn**, a passionate developer from **[Your Country/City]**.<br><br>
+- 🔭 I’m currently working as a **[Your Job or Role]**.<br>
+- 📚 I'm learning **[Current Technologies/Subjects]** and constantly exploring new tools.<br>
+- ⚡ In my free time, I love **[Hobbies or Interests]**, like **[e.g., playing games, open-source contributions, reading tech blogs]**.<br><br>
+I'm also very active in the **[Community/Development/Design]** space and enjoy collaborating on projects that challenge me!</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and Tools</h3>
 
 ###
 
@@ -56,12 +61,48 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats</h3>
 
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
+
+<h3 align="left">📈 GitHub Stats</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaizxnn&show_icons=true&theme=dark&hide_border=true" height="200" alt="Kaizxnn's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaizxnn&langs_count=10&theme=dark&hide_border=true" height="200" alt="Top languages" />
+</div>
+
+### 
+
+<h3 align="left">🌱 I'm Currently Working On</h3>
+
+###
+
+<p align="left">
+  - Contributing to **[Open Source Projects]**<br>
+  - Building a **[Personal Website/Portfolio]**<br>
+  - Learning about **[AI, Cloud Computing, or other Technologies]**<br>
+  - Experimenting with **[New Tools/Frameworks]**
+</p>
+
+###
+
+<h3 align="left">📬 How to Reach Me</h3>
+
+###
+
+<p align="left">
+  - Email: [Your Email]<br>
+  - LinkedIn: [Your LinkedIn URL]<br>
+  - Twitter: [Your Twitter URL]
+</p>
 
 ###

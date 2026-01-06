@@ -25,10 +25,10 @@
 <h3 align="left">🎓 About Me</h3>
 
 <p align="left">
-I'm <b>Kaizxnn</b>, a student who is passionate about programming and technology.<br><br>
-- 🎓 Currently studying and learning programming fundamentals<br>
-- 📚 Learning web development and basic computer science concepts<br>
-- ⚡ I enjoy coding, experimenting with small projects, and improving my skills every day
+I'm <b>Kaizxnn</b>, a student passionate about programming and technology.<br><br>
+- 🎓 Currently learning programming fundamentals<br>
+- 📚 Studying web development and basic computer science<br>
+- ⚡ I enjoy coding, building small projects, and improving every day
 </p>
 
 ###
@@ -50,7 +50,7 @@ I'm <b>Kaizxnn</b>, a student who is passionate about programming and technology
 <h3 align="left">🔥 GitHub Streak</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kaizxnn&theme=dark&border_radius=5" height="220" />
+  <img src="https://streak-stats.demolab.com?user=kaizxnn&theme=dark&hide_border=true" height="220" />
 </div>
 
 ###
@@ -58,8 +58,8 @@ I'm <b>Kaizxnn</b>, a student who is passionate about programming and technology
 <h3 align="left">📈 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaizxnn&show_icons=true&theme=dark&hide_border=true" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaizxnn&layout=compact&theme=dark&hide_border=true" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaizxnn&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaizxnn&layout=compact&theme=dark&hide_border=true&count_private=true" height="200" />
 </div>
 
 ###

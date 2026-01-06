@@ -22,13 +22,13 @@
 
 ###
 
-<h3 align="left">👩‍💻 About Me</h3>
+<h3 align="left">🎓 About Me</h3>
 
 <p align="left">
-I'm <b>Kaizxnn</b>, a passionate programmer focused on learning, building, and improving every day.<br><br>
-- 🔭 I’m currently working on personal projects<br>
-- 📚 I’m learning web development and programming fundamentals<br>
-- ⚡ In my free time I enjoy coding, exploring new technologies, and experimenting with ideas
+I'm <b>Kaizxnn</b>, a student who is passionate about programming and technology.<br><br>
+- 🎓 Currently studying and learning programming fundamentals<br>
+- 📚 Learning web development and basic computer science concepts<br>
+- ⚡ I enjoy coding, experimenting with small projects, and improving my skills every day
 </p>
 
 ###
@@ -67,10 +67,10 @@ I'm <b>Kaizxnn</b>, a passionate programmer focused on learning, building, and i
 <h3 align="left">🌱 Currently Learning</h3>
 
 <p align="left">
-- HTML, CSS, and JavaScript<br>
-- Python fundamentals<br>
-- Git & GitHub best practices<br>
-- Problem-solving and logic building
+- HTML & CSS<br>
+- JavaScript basics<br>
+- Python basics<br>
+- Git & GitHub
 </p>
 
 ###
